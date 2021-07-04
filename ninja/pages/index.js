@@ -4,7 +4,10 @@ const App = ({ posts }) => {
 
     return (
         <div>
-            App
+            App <br />
+            {posts.map(p => (
+                <li key={p.id}>{p.login}</li>
+            ))}
         </div>
     );
 }
