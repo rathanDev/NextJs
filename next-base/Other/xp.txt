@@ -10,3 +10,15 @@ For development
 npm run dev 
 
 # ----- ----- # ----- ----- # ----- ----- # ----- ----- #
+
+NextJs crash course 
+
+https://www.youtube.com/watch?v=zueyEdRZQlk&ab_channel=TheNetNinja
+
+# ----- ----- # ----- ----- # ----- ----- # ----- ----- #
+
+sample api 
+
+https://jsonplaceholder.typicode.com/users
+
+# ----- ----- # ----- ----- # ----- ----- # ----- ----- #
